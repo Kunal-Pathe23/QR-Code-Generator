@@ -1,0 +1,1 @@
+Created a QR code generator using html, CSS and JavaScript. Implemented dynamic QR code generation based on user input or data from external sources. Ensured cross-browser compatibility and responsiveness.
